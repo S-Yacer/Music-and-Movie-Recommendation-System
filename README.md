@@ -3,8 +3,8 @@
 
 This is a collaborative filtering recommendation system for music and movie ratings, implemented using Python and the Surprise library. The system is trained on the public MovieLens 100k dataset and can be used to generate top-N recommendations for a given user.
 
-# Getting Started
-
+# Getting Started 
+<sub>
 To use this recommendation system, you will need to have Python 3 and the following Python packages installed:
 ```
 pandas
@@ -27,7 +27,7 @@ You can then generate top-N recommendations for a given user by running the reco
 ```
 python recommend.py <user_id> <n>
 ```
-Replace ```<user_id>``` with the ID of the user for whom you want to generate recommendations, and replace ```<n>``` with the number of recommendations you want to generate.
+Replace ```<user_id>``` with the ID of the user for whom you want to generate recommendations, and replace ```<n>``` with the number of recommendations you want to generate. </sub>
 
 # Acknowledgments
 This project is based on the MovieLens 100k dataset, which was created by GroupLens Research at the University of Minnesota. The dataset can be found at http://grouplens.org/datasets/movielens/100k/.
