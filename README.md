@@ -33,6 +33,6 @@ Replace ```<user_id>``` with the ID of the user for whom you want to generate re
 This project is based on the MovieLens 100k dataset, which was created by GroupLens Research at the University of Minnesota. The dataset can be found at http://grouplens.org/datasets/movielens/100k/.
 
 # Future Work
-Implement item-based collaborative filtering.
-Explore the use of additional features such as movie genres and user demographics.
-Implement a web interface for the recommendation system.
+- Implement item-based collaborative filtering.
+- Explore the use of additional features such as movie genres and user demographics.
+- Implement a web interface for the recommendation system.
